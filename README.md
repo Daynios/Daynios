@@ -6,4 +6,4 @@
 <p align="center"><img align="center" s<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daynios&layout=compact&text_color=5baddf&icon_color=FFF&theme=tokyonight""></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Daynios&show_icons=true&text_color=5baddf&icon_color=FFF&theme=tokyonight""></p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/360465571042820107)](https://discord.com/users/360465571042820107)
+<p align="center"><img align="center" src="https://lanyard.cnrad.dev/api/360465571042820107""></p>
